@@ -135,14 +135,10 @@ If you have any questions or need assistance, feel free to reach out via the con
 
 ## 🙏 Acknowledgement
 
-- [**OpenOmni**](https://huggingface.co/AlibabaResearch/OpenOmni):  
-  The backbone multimodal foundation model powering our speech-language finetuning. We are truly excited to build on top of this open effort!
+- [**OpenOmni**](https://huggingface.co/AlibabaResearch/OpenOmni): The backbone multimodal foundation model powering our speech-language finetuning. We are truly excited to build on top of this open effort!
   
-- [**LLaVA**](https://github.com/haotian-liu/LLaVA) and [**LLaVA-Omni**](https://github.com/ictnlp/LLaMA-Omni):  
-The foundational codebases our work builds upon. We sincerely appreciate their pioneering contributions to the community!
+- [**LLaVA**](https://github.com/haotian-liu/LLaVA) and [**LLaVA-Omni**](https://github.com/ictnlp/LLaMA-Omni): The foundational codebases our work builds upon. We sincerely appreciate their pioneering contributions to the community!
 
-- [**CosVoice**](https://github.com/FunAudioLLM/CosyVoice):  
-  An excellent open-source speech tokenizer enabling discretization and reconstruction with a 6k vocabulary—essential for expressive speech representation.
+- [**CosVoice**](https://github.com/FunAudioLLM/CosyVoice): An excellent open-source speech tokenizer enabling discretization and reconstruction with a 6k vocabulary—essential for expressive speech representation.
 
-- [**GLM4Voice**](https://github.com/THUDM/GLM-4-Voice):  
-  Another impressive speech tokenizer supporting high-fidelity reconstruction with a 16k vocabulary. Huge thanks for making this resource available!
+- [**GLM4Voice**](https://github.com/THUDM/GLM-4-Voice): Another impressive speech tokenizer supporting high-fidelity reconstruction with a 16k vocabulary. Huge thanks for making this resource available!

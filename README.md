@@ -78,13 +78,13 @@ OmniCharacter/
 
 3. You can train the model with the following command:
 
-Stage-1: focuses on aligning speech features (user query) and text (role profile, dialogue contexts, etc.) in the shared personality space. Use the provided shell script to launch training:
+**Stage-1**: focuses on aligning speech features (user query) and text (role profile, dialogue contexts, etc.) in the shared personality space. Use the provided shell script to launch training:
 ```
 bash omnicharacter_stage1_qwen2.5.sh
 ```
 This will save outputs to a designated directory ```results/```.
 
-Stage-2: further finetunes the speech generator
+**Stage-2**: further finetunes the speech generator
 
 Once Stage 1 completes, locate the checkpoint (e.g., results/stage1/checkpoint-xxx/) and pass it to Stage 2 as ```--model_name_or_path```:
 ```

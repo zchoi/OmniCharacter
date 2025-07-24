@@ -1,0 +1,10 @@
+pycocoevalcap
+validators
+visual_genome
+xlsxwriter
+sty
+transformers==4.43.4
+openai-whisper
+git+https://github.com/shivammehta25/Matcha-TTS.git
+
+

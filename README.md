@@ -37,7 +37,7 @@ ninja --version; echo $?  # Verify Ninja --> should return exit code "0"
 pip install "flash-attn" --no-build-isolation
 ```
 
-# 🚀 Train
+## 🚀 Train
 1. Download the dataset.
 First, download the OmniCharacter training and test sets from our [HuggingFace🤗](https://huggingface.co/datasets/Tongyi-ConvAI/OmniCharacter) repository.
 After downloading, place the dataset in a folder named data/ under the project root:
@@ -91,7 +91,7 @@ Once Stage 1 completes, locate the checkpoint (e.g., results/stage1/checkpoint-x
 bash omnicharacter_stage2_qwen2.5.sh
 ```
 
-# 🍃 Inference
+## 🍃 Inference
 After downloading the weights and configuring the paths properly. A speech tokenizer are needed for speech discretization and reconstruction, _i.e._, [GLM-4-Voice](https://github.com/THUDM/GLM-4-Voice)
 
 Fast inference:
@@ -99,7 +99,7 @@ Fast inference:
 python inference.py
 ```
 
-# 📖 Citation
+## 📖 Citation
 If this project contributes to your research, we kindly ask you to cite the following paper:
 ```
 @article{zhang2025omnicharacter,
@@ -125,7 +125,7 @@ If this project contributes to your research, we kindly ask you to cite the foll
   year={2024}
 }
 ```
-# 📧 Contact
+## 📧 Contact
 If you have any questions or need assistance, feel free to reach out via the contact information below.
 
 - Haonan Zhang — zchiowal@gmail.com

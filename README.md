@@ -1,7 +1,7 @@
 # _OmniCharacter_: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction (ACL 2025 main)
 
-[Haonan Zhang](https://zchoi.github.io/), [Run Luo](https://scholar.google.com/citations?user=phg8yxoAAAAJ&hl=zh-CN&oi=ao), Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng, Qiang Qu, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li
-
+[Haonan Zhang](https://zchoi.github.io/)<sup>*</sup>, [Run Luo](https://scholar.google.com/citations?user=phg8yxoAAAAJ&hl=zh-CN&oi=ao)<sup>*</sup>, Xiong Liu<sup>*</sup>, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng, Qiang Qu, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song<sup>‡</sup>, Fei Huang, Yongbin Li<sup>‡</sup>
+* Equal contribution ‡ Corresponding author
 
 This is the official code implementation of the paper "**OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction**".
 

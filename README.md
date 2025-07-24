@@ -3,7 +3,7 @@
 [Haonan Zhang](https://zchoi.github.io/), [Run Luo](https://scholar.google.com/citations?user=phg8yxoAAAAJ&hl=zh-CN&oi=ao), Xiong Liu, Yuchuan Wu, Ting-En Lin, Pengpeng Zeng, Qiang Qu, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li
 
 
-This is the official code implementation of the paper "OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction".
+This is the official code implementation of the paper "**OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction**".
 
 We are continuously refactoring our code, be patient and wait for the latest updates!
 
@@ -133,7 +133,7 @@ If you have any questions or need assistance, feel free to reach out via the con
 - Run Luo — r.luo@siat.ac.cn
 
 
-## 🙏 Acknowledgement
+## Acknowledgement
 
 - [**OpenOmni**](https://huggingface.co/AlibabaResearch/OpenOmni): The backbone multimodal foundation model powering our speech-language finetuning. We are truly excited to build on top of this open effort!
   

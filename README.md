@@ -10,8 +10,8 @@ We are continuously refactoring our code, be patient and wait for the latest upd
 ## 🔥 Updates
 
 - [ ] Release the pre-trained weight and datasets.
-- [✓] Release the training and evaluation code.
-- [✓] We release the [paper](https://arxiv.org/abs/2505.20277) for OmniCharacter!
+- [x] Release the training and evaluation code.
+- [x] We release the [paper](https://arxiv.org/abs/2505.20277) for OmniCharacter!
 
 ## ⚙️ Installation
 
